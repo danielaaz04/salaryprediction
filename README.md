@@ -18,7 +18,8 @@ I checked for correlation between each feature and the target.
 I also used label encoding in categorical features to be able to make a heatmap.
 
 
-I started using Linear Regression as a baseline and selected MSE as a reasonable metric. I also tried with a Decision Tree Regressor to check the MSE.
+I started using Linear Regression as a baseline and selected MSE as a reasonable metric.
+
 The following moodels were created:
 -Linear Regression 
 -Pipeline with StandardScaler, PCA and Linear Regression.
